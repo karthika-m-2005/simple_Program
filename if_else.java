@@ -1,11 +1,9 @@
-import java.io.*;
-
-
+import java.util.Scanner;
 public class Solution {
 
 
 
-    private static final Scanner scanner = new Scanner(System.in);
+     Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
         int N = scanner.nextInt();
